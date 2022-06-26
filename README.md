@@ -1,4 +1,4 @@
-# How To Use Hammer? 
+# How To Run Hammer? 
 - Support : Marvin, Varel, And All Friends
 - Team : MedanSec
 - Support Me :) 
